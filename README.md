@@ -1,93 +1,61 @@
 # 👋 안녕하세요, 백엔드 개발자 박세한입니다.
 
-> 🚀 **운영 환경에서 발생하는 문제를 해결하는 백엔드 개발자**  
-> 대규모 사용자 환경에서 성능 개선과 안정성 확보를 경험했습니다.
+> **운영 환경의 문제를 분석하고, 더 안정적이고 효율적인 구조로 개선하는 백엔드 개발자입니다.**
 
----
+<br>
 
-## 🔥 About Me
-
+## 🙋 About Me
 - 그룹웨어 시스템 유지보수 및 개선 경험
-- **최대 3,300명 사용자 환경 운영 경험**
-- Java / Spring 기반 백엔드 개발
-- 레거시 시스템 분석 및 구조 개선
-- Deadlock, 트랜잭션, 성능 이슈 해결 경험
+- **최대 3,300명 사용자 환경** 운영 경험
+- Java/Spring 기반 백엔드 개발 중심
+- 성능 개선, 리팩토링, 장애 대응 경험
 
----
+<br>
 
 ## 🛠 Tech Stack
 
-### 💻 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### 🗄 Database
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Database
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ☁️ Infra / DevOps
+### Infra / Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<br>
+
+## 🚀 Featured Projects
+
+### 🔹 [CS-ChatBot](https://github.com/jdhert/CS-ChatBot)
+그룹웨어 유지보수 업무를 돕기 위한 **CS 챗봇 프로젝트**  
+운영 및 문의 대응 흐름을 고려한 문제 해결 중심 설계
 
 ---
 
-## 💼 Experience
-
-### 📌 그룹웨어 시스템 운영 및 개선
-
-- 대규모 사용자 환경(3,300명) 시스템 유지보수
-- 성능 저하 쿼리 분석 및 개선
-- Deadlock 발생 구간 분석 및 retry 로직 설계
-- 트랜잭션 구조 개선으로 데이터 정합성 확보
-- 레거시 코드 리팩토링으로 유지보수성 향상
+### 🔹 [SceneHive](https://github.com/jdhert/SceneHive)
+프론트엔드와 백엔드를 연동한 **웹 애플리케이션 프로젝트**  
+서비스 흐름과 사용자 경험을 고려한 구조 설계 및 구현
 
 ---
 
-## 🚀 Projects
+### 🔹 [Pet-Public](https://github.com/jdhert/Pet-Public)
+반려동물 관련 정보를 공유하는 **커뮤니티 서비스 프로젝트**  
+데이터 구조 설계와 사용자 중심 기능 구현에 초점을 맞춰 개발
 
-### 🔹 그룹웨어 성능 개선 프로젝트
-- **문제**: 특정 기능에서 쿼리 지연 및 응답 속도 저하 발생  
-- **해결**: 인덱스 최적화 및 쿼리 리라이팅 적용  
-- **성과**: 응답 속도 개선 및 서버 부하 감소  
-
----
-
-### 🔹 Deadlock 문제 해결
-- **문제**: MSSQL 환경에서 Deadlock으로 인한 트랜잭션 실패 발생  
-- **해결**: 트랜잭션 분리 + 재시도 로직 구현  
-- **성과**: 시스템 안정성 향상  
-
----
-
-### 🔹 레거시 코드 리팩토링
-- **문제**: 유지보수 어려운 구조 및 중복 코드  
-- **해결**: 공통 로직 분리 및 구조 개선  
-- **성과**: 코드 가독성 및 유지보수성 향상  
-
----
-
-## 🔥 Strength
-
-- ✔ 운영 환경 중심 문제 해결 능력
-- ✔ 장애 대응 및 트러블슈팅 경험
-- ✔ 성능 개선 및 최적화 경험
-- ✔ 레거시 시스템 개선 능력
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jdhert&show_icons=true&theme=tokyonight)
-
----
+<br>
 
 ## 📫 Contact
-
 - Email: kkuladong12@gmail.com
