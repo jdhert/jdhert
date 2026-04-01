@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 안녕하세요, 백엔드 개발자 박세한입니다.
 
-<!--
-**jdhert/jdhert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+운영 환경에서 발생하는 문제를 해결하는 **실무형 백엔드 개발자**입니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 소개
+
+- 그룹웨어 시스템 유지보수 및 개선 경험
+- 최대 3,300명 사용자 환경 운영 경험
+- Java / Spring 기반 백엔드 개발
+- 레거시 시스템 분석 및 리팩토링
+- 성능 개선 및 트랜잭션 구조 개선 경험
+
+---
+
+## 🛠 기술 스택
+
+### Backend
+- Java, Spring Framework, Spring Boot
+
+### Database
+- MSSQL, MariaDB, MySQL
+
+### Infra
+- AWS EC2, RDS
+- Docker
+
+### Frontend
+- React (학습 및 적용 중)
+
+---
+
+## 💼 주요 경험
+
+### 📌 그룹웨어 시스템 운영 및 개선
+
+- 대규모 사용자 환경(3,300명) 시스템 유지보수
+- 성능 저하 쿼리 분석 및 개선
+- Deadlock 문제 해결 및 재시도 로직 적용
+- 트랜잭션 구조 개선을 통한 안정성 확보
+- 레거시 코드 리팩토링으로 유지보수성 향상
+
+---
+
+## 🔥 강점
+
+- ✔ 운영 환경 중심 문제 해결 능력
+- ✔ 레거시 코드 개선 및 구조 이해 능력
+- ✔ 성능과 안정성을 고려한 개발
+- ✔ 실제 장애 대응 및 트러블슈팅 경험
+
+---
+
+## 📫 연락처
+
+- Email: kkuladong12@gmail.com
