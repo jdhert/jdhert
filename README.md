@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jdhert/jdhert/main/assets/banner.png" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:8b0000&height=150&section=header&text=Sehan%20Park&fontSize=45&fontColor=ffffff">
+</div>
 
 # 👋 안녕하세요, 백엔드 개발자 박세한입니다.
 
