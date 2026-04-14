@@ -50,23 +50,15 @@
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🔹 [CS-ChatBot](https://github.com/jdhert/CS-ChatBot)
-그룹웨어 유지보수 업무를 돕기 위한 **CS 챗봇 프로젝트**  
-→ 운영/문의 대응 자동화를 위한 구조 설계 및 기능 구현
+### [CS-ChatBot](https://github.com/jdhert/CS-ChatBot)
+그룹웨어 유지보수 업무를 돕기 위한 **CS 챗봇 프로젝트**입니다.  
+운영 및 문의 대응 과정에서 반복적으로 발생하는 정보 탐색 부담을 줄이기 위해 기획하고 개발했습니다.
 
----
-
-### 🔹 [SceneHive](https://github.com/jdhert/SceneHive)
-프론트엔드와 백엔드를 연동한 **웹 애플리케이션 프로젝트**  
-→ 서비스 흐름 기반 기능 설계 및 API 연동 구현
-
----
-
-### 🔹 [Pet-Public](https://github.com/jdhert/Pet-Public)
-반려동물 정보를 공유하는 **커뮤니티 서비스 프로젝트**  
-→ 데이터 구조 설계 및 사용자 중심 기능 개발
+- FAQ, 매뉴얼, 유사 장애 이력 탐색을 돕는 구조 설계
+- 자연어 기반 질의 응답 흐름 구현
+- 유지보수 업무 효율 향상을 목표로 기능 개발 및 개선 진행
 
 <br>
 
