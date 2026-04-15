@@ -15,6 +15,9 @@
   <a href="mailto:kkuladong12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/%EC%84%B8%ED%95%9C-%EB%B0%95-85014a338/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <br>
