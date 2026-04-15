@@ -45,7 +45,7 @@
 
 ### Projects
 - **CS-ChatBot**  
-  유지보수 업무 자동화를 위한 챗봇 서비스
+  유지보수 업무 자동화를 위한 챗봇 서비스 
   https://github.com/jdhert/CS-ChatBot
 
 - **SceneHive**  
@@ -53,7 +53,7 @@
   https://github.com/jdhert/SceneHive  
 
 - **Pet-Public**  
-  "펫퍼블릭" 반려동물과 함께 꾸리는 커뮤니티
+  "펫퍼블릭" 반려동물과 함께 꾸리는 커뮤니티 
   https://github.com/jdhert/Pet-Public  
 
 <br>
